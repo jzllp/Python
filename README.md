@@ -1,4 +1,2 @@
 # Python
-fdfdf
-fdfd
 
